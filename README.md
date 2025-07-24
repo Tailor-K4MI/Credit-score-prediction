@@ -12,10 +12,7 @@ Welcome to the **Credit Score Prediction** project! This repository aims to prov
 - [Usage](#usage)
 - [Model Building Process](#model-building-process)
 - [Model Architecture and Methodology](#model-architecture-and-methodology)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+  
 
 ## Project Overview
 
