@@ -60,7 +60,7 @@ Credit-score-prediction/
 
 ### Clone the repository
 
-````http
+````
 git clone https://github.com/Tailor-K4MI/Credit-score-prediction.git
 cd Credit-score-prediction
 ````
@@ -104,9 +104,8 @@ cd Credit-score-prediction
 
 ### Machine Learning Models Used
 
-- Random Forest Classifier
-- XGBoost Classifier
-- Logistic Regression
+ `Random Forest Classifier`
+  
 
 These models effectively handle mixed numerical and categorical tabular data.
 
@@ -125,13 +124,5 @@ These models effectively handle mixed numerical and categorical tabular data.
 - Periodic retraining with new data
 - Continuous monitoring and updating of model and features as needed
 
-## API Endpoints
 
-| Endpoint     | Method | Description                       |
-|--------------|--------|---------------------------------|
-| `/predict`   | POST   | Returns credit score prediction  |
-| `/health`    | GET    | Health check of backend service  |
-| `/features`  | GET    | Returns the list of required features |
-
-### Example Payload
 
